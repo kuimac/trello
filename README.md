@@ -1,3 +1,29 @@
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
 # trello
 
 バージョン管理
@@ -15,6 +41,7 @@ trelloのようなカードをD&Dで移動できるwebアプリをつくりherok
 
 
 ##ざっくり開発フロー
+1.rails初期設定
 1. ログイン機能
 1. [ドラッグ＆ドロップで並び替えて順番を保存できるリストを作る](https://qiita.com/at-946/items/28cad21211b9305d6077)
 1. カテゴリ機能
